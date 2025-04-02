@@ -16,7 +16,7 @@
 CNN-laba/
 ├── README.md
 ├── requirements.txt
-├── notebooka7f2a1677e (1).ipynb
+├── cnn-laba.ipynb
 ├── taxy_competition.csv
 └── venv/
 ```
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-3. Откройте файл `notebooka7f2a1677e (1).ipynb`
+3. Откройте файл `cnn-laba.ipynb`
 
 ## Функциональность
 
