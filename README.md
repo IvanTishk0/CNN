@@ -17,7 +17,6 @@ CNN-laba/
 ├── README.md
 ├── requirements.txt
 ├── cnn-laba.ipynb
-├── taxy_competition.csv
 └── venv/
 ```
 
